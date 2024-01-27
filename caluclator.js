@@ -39,4 +39,5 @@ function onDecrement(){
 function onReset(){
     let updatedCounterValue =0;
     counter.textContent=updatedCounterValue;
+    counter.style.color="black";
 }
