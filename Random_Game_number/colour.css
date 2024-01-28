@@ -1,0 +1,47 @@
+#colorPickerContainer{
+    padding-top: 180px;
+    padding-bottom: 60px;
+    background-size: cover;
+    height:100vh;
+}
+#button1{
+    background-color:#e0e0e0;
+    border-radius: 10px;
+    height: 70px;
+   
+}
+#button2{
+
+    background-color: #6fcf97;
+    border-radius: 10px;
+    height: 70px;
+   
+}
+#button3{
+
+    background-color:#56ccf2;
+    border-radius: 10px;
+    height: 70px;
+
+    
+}
+#button4{
+    background-color:#bb6bd9;
+    border-radius: 10px;
+    height: 70px;
+}
+
+.black-bg{
+
+    
+justify-content: center;
+    background-color: #222222;
+    color: white;
+    width: 350px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 25px ;
+
+}
